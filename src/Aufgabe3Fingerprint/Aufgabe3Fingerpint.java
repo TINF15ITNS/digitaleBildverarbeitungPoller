@@ -125,7 +125,7 @@ public class Aufgabe3Fingerpint {
 						//Mittelpunkt: count == 0
 						if(count == 0) {
 							anzMittelpunkte++;
-							newarray[i][j] = 1;
+							newarray[i][j] = 0;
 							list.add(new Mittelpunkt(i, j));
 							continue;
 						}else if (count <= 4) {
