@@ -11,8 +11,8 @@ import javax.imageio.ImageIO;
 
 public class Aufgabe3FingerPrintTest {
 
-	public final static String fileLocationFirstPic = "C:\\Users\\Nikolai\\OneDrive\\DHBW\\6.Semester\\Digitale Bildverarbeitung\\BildWordNurAstloecher.bmp";
-	public final static String fileLocationSecondPic = "C:\\Users\\Nikolai\\OneDrive\\DHBW\\6.Semester\\Digitale Bildverarbeitung\\BildWordNurAstloecherGedreht.bmp";
+	public final static String fileLocationFirstPic = "src\\pictures\\BildWordNurAstloecher.bmp";
+	public final static String fileLocationSecondPic = "src\\pictures\\BildWordNurAstloecherGedreht.bmp";
 
 	
 	public static void aufgabe3FingerprintTest() {
